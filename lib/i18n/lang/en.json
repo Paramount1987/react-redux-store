@@ -1,0 +1,14 @@
+{
+  "app.title": "Product store",
+  "item.add": "Add",
+  "item.addProduct": "Add a product",
+  "form.success": "The form was successfully verified",
+  "item.remove": "Remove",
+  "item.edit": "Edit",
+  "item.cancel": "cancel",
+  "item.save": "Save",
+  "placeholderName": "Product name",
+  "placeholderCount": "Count",
+  "placeholderPrice": "Price",
+  "placeholderDate": "expiration date"
+}

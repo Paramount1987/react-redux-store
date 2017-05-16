@@ -1,0 +1,14 @@
+{
+  "app.title": "Склад товаров",
+  "item.add": "Добавить",
+  "item.addProduct": "Добавить товар",
+  "form.success": "Форма успешно проверена",
+  "item.remove": "Удалить",
+  "item.edit": "Редактировать",
+  "item.cancel": "Отмена",
+  "item.save": "Сохранить",
+  "placeholderName": "Название товара",
+  "placeholderCount": "Количество",
+  "placeholderPrice": "Цена",
+  "placeholderDate": "Срок годности"
+}

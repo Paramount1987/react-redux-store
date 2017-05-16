@@ -1,0 +1,50 @@
+[
+  {
+    "id": "app.title",
+    "defaultMessage": "Склад товаров"
+  },
+  {
+    "id": "item.add",
+    "defaultMessage": "Добавить"
+  },
+  {
+    "id": "item.addProduct",
+    "defaultMessage": "Добавить товар"
+  },
+  {
+    "id": "form.success",
+    "defaultMessage": "Форма успешно проверена"
+  },
+  {
+    "id": "item.remove",
+    "defaultMessage": "Удалить"
+  },
+  {
+    "id": "item.edit",
+    "defaultMessage": "Редактировать"
+  },
+  {
+    "id": "item.cancel",
+    "defaultMessage": "Отмена"
+  },
+  {
+    "id": "item.save",
+    "defaultMessage": "Сохранить"
+  },
+  {
+    "id": "placeholderName",
+    "defaultMessage": "Название товара"
+  },
+  {
+    "id": "placeholderCount",
+    "defaultMessage": "Количество"
+  },
+  {
+    "id": "placeholderPrice",
+    "defaultMessage": "Цена"
+  },
+  {
+    "id": "placeholderDate",
+    "defaultMessage": "Срок годности"
+  }
+]

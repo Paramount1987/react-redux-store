@@ -1,0 +1,21 @@
+.form-edit__backdrop{
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0 ;
+    background-color: rgba(0,0,0,.8);
+}
+
+.form-edit{
+    position: absolute;
+    z-index: 11;
+    width: 50%;
+    min-width: 500px;
+    top: 50%;
+    left: 50%;
+    background-color: #fff;
+    padding: 20px;
+    transform: translate(-50%,-50%);
+}

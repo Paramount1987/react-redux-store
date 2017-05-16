@@ -1,0 +1,62 @@
+{
+  "name": "react-redux-starter-kit",
+  "version": "1.0.0",
+  "description": "React/Redux Starter Kit with Zero Build Configuration",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux",
+    "reduxjs",
+    "react-router",
+    "bootstrap",
+    "webpack",
+    "flux",
+    "jwt",
+    "auth0",
+    "dashboard",
+    "template",
+    "boilerplate",
+    "create-react-app",
+    "websockets",
+    "socket.io"
+  ],
+  "license": "MIT",
+  "proxy": "http://localhost:3001",
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "babel-cli": "^6.24.1",
+    "babel-plugin-react-intl": "^2.3.1",
+    "babel-preset-node6": "^11.0.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "classnames": "^2.2.5",
+    "font-awesome": "^4.7.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.2.1",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-intl": "^2.3.0",
+    "react-redux": "^5.0.4",
+    "react-router-dom": "^4.1.1",
+    "react-virtualized": "^9.7.3",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0",
+    "socket.io-client": "^1.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "translate": "babel-node --presets node6 scripts/translate.js",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

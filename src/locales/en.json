@@ -1,0 +1,50 @@
+[
+  {
+    "id": "app.title",
+    "defaultMessage": "Product store"
+  },
+  {
+    "id": "item.add",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "item.addProduct",
+    "defaultMessage": "Add a product"
+  },
+  {
+    "id": "form.success",
+    "defaultMessage": "The form was successfully verified"
+  },
+  {
+    "id": "item.remove",
+    "defaultMessage": "Remove"
+  },
+  {
+    "id": "item.edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "item.cancel",
+    "defaultMessage": "cancel"
+  },
+  {
+    "id": "item.save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "placeholderName",
+    "defaultMessage": "Product name"
+  },
+  {
+    "id": "placeholderCount",
+    "defaultMessage": "Count"
+  },
+  {
+    "id": "placeholderPrice",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "placeholderDate",
+    "defaultMessage": "expiration date"
+  }
+]
